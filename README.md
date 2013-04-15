@@ -102,7 +102,7 @@ end
 # 問題行リポートのトータル行数（ログが複数あれば総計）（予約置換文字列）
 %all_size
  
-# filenameで指定したログファイルの問題行リポートのトータル行数 "%size_" + name
+# file.nameで指定したログファイルの問題行リポートのトータル行数 "%size_" + name
 %size_api_log 
 
 # 上で設定したcount:"process count" "%count_" + name
